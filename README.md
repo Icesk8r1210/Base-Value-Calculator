@@ -38,7 +38,7 @@ type, and level, and the app computes the total using **official scoring rules**
 
 ## Demo
 
-Try it live here: **<https://icesk8r1210.github.io/>**
+Try it live here: **<https://icesk8r1210.github.io/Base-Value-Calculator/>**
 ## Technologies
 
 | Technology | Purpose                     |
