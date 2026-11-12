@@ -2,7 +2,7 @@
 
 > An interactive web app that helps figure skaters calculate the base score of a program from the elements they choose.
 
-[**Live Demo**](https://icesk8r1210.github.io/) | [**Repository**](https://github.com/Icesk8r1210/Base-Value-Calculator)
+[**Live Demo**](https://icesk8r1210.github.io/Base-Value-Calculator/) | [**Repository**](https://github.com/Icesk8r1210/Base-Value-Calculator)
 
 ---
 
